@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.35906.104
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoshinaUploader", "SoshinaUploader\SoshinaUploader.csproj", "{5FC87418-A2BB-400E-B53F-2CA452EB2BBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveryTriviaUploader", "EveryTriviaUploader\EveryTriviaUploader.csproj", "{5FC87418-A2BB-400E-B53F-2CA452EB2BBD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveryTriviaFunc", "EveryTriviaFunc\EveryTriviaFunc.csproj", "{D7E6D057-7F81-42A8-A4C3-B0308E1BEBDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC9AC0BE-85EF-45D3-9F02-9DF2AE077113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E6D057-7F81-42A8-A4C3-B0308E1BEBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E6D057-7F81-42A8-A4C3-B0308E1BEBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E6D057-7F81-42A8-A4C3-B0308E1BEBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E6D057-7F81-42A8-A4C3-B0308E1BEBDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
